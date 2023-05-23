@@ -1,0 +1,37 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "rating": 9.3,
+    "tags": ["drama", "prisión", "redención"]
+  },
+  {
+    "title": "Inception",
+    "rating": 8.8,
+    "tags": ["ciencia ficción", "sueños", "realidad"]
+  },
+  {
+    "title": "The Dark Knight",
+    "rating": 9.0,
+    "tags": ["acción", "superhéroes", "crimen"]
+  },
+  {
+    "title": "Pulp Fiction",
+    "rating": 8.9,
+    "tags": ["drama", "crimen", "humor negro"]
+  },
+  {
+    "title": "Fight Club",
+    "rating": 8.8,
+    "tags": ["drama", "acción", "psicológica"]
+  },
+  {
+    "title": "The Godfather",
+    "rating": 9.2,
+    "tags": ["drama", "mafia", "crimen"]
+  },
+  {
+    "title": "Interstellar",
+    "rating": 8.6,
+    "tags": ["ciencia ficción", "espacio", "viaje"]
+  }
+]
